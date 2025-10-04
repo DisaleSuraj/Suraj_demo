@@ -1,2 +1,3 @@
 # Suraj_demo
-This is simple repository
+This is my first Git repository.
+Author- Suraj Disale.
